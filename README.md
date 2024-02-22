@@ -1,2 +1,1 @@
-# scaleable-chat-app
-Scaleable chat application.
+# Scaleable chat application
